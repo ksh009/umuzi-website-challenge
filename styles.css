@@ -122,13 +122,13 @@ p {
   background-color: var(--primary-color);
 }
 
-.brand h1 {
+.brand h2 {
   font-size: 3rem;
   text-transform: uppercase;
   color: white;
 }
 
-.brand h1 span {
+.brand h2 span {
   color: var(--primary-color);
 }
 
@@ -843,7 +843,7 @@ ul {
     top: 19px;
   }
 
-  .brand h1 {
+  .brand h2 {
     font-size: 2.1rem;
   }
 
@@ -919,7 +919,7 @@ ul {
     top: 21px;
   }
 
-  .brand h1 {
+  .brand h2 {
     font-size: 2.5rem;
   }
 
@@ -940,7 +940,7 @@ ul {
 @media (min-width: 576px) {
   /* Styles for small devices */
   /* Header */
-  .brand h1 {
+  .brand h2 {
     font-size: 3rem;
   }
 
