@@ -758,7 +758,7 @@ ul {
   justify-content: center;
 }
 
-#footer h2 {
+#footer h3 {
   color: var(--plain-white);
   font-weight: 500;
   font-size: 1.8rem;
